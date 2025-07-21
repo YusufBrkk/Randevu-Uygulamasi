@@ -11,6 +11,20 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 - **JavaScript** – Dinamik işlemler ve etkileşimler
 - **Bootstrap Icons** – Arayüz ikonları
 
+## Ekran Görüntüleri
+
+### Giriş Sayfası
+![Giriş Sayfası](screenshots/login.png)
+
+### Kayıt Ol Sayfası
+![Kayıt Ol Sayfası](screenshots/register.png)
+
+### Randevu Listesi
+![Randevu Listesi](screenshots/appointments.png)
+
+### Admin Paneli
+![Admin Paneli](screenshots/admin-panel.png)
+
 ## Özellikler
 
 ### Kullanıcılar için
