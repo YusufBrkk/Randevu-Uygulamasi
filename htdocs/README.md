@@ -61,7 +61,7 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin. İletişim bilgilerini aşağıda bulabilirsiniz:
 
 - [LinkedIn](http://www.linkedin.com/in/yusuf-burkuk-390b4027a)
-- [E-posta](mailto:yusufbrkk12@gmail.com)
+- [E-posta](mailto:yusufbrkk12@gmail.com)[yusufbrkk12@gmail.com]
 
 ## Katkı
 
