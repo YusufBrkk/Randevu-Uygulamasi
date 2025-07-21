@@ -20,7 +20,7 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 ![Kayıt Ol Sayfası](Screenshots/sign-up.png)
 
 ### Admin Giriş Paneli
-![Admin Giriş Paneli](Screenshots/admin log-in.png)![Admin Giriş Paneli](Screenshots/admin log-in1.png)![Admin Giriş Paneli](Screenshots/admin log-in2.png)
+![Admin Giriş Paneli](Screenshots/admin-log-in.png)![Admin Giriş Paneli](Screenshots/admin-log-in1.png)![Admin Giriş Paneli](Screenshots/admin-log-in2.png)
 
 ## Özellikler
 
