@@ -1,8 +1,7 @@
 # Kuaför Randevu Sistemi
 
 Bu proje, 
--	PHP
--	Sunucu tarafı programlama dili olarak kullanılmıştır. Tüm dinamik işlemler, oturum yönetimi, form işlemleri ve veritabanı bağlantıları PHP ile yapılmış.
+-	PHP Sunucu tarafı programlama dili olarak kullanılmıştır. Tüm dinamik işlemler, oturum yönetimi, form işlemleri ve veritabanı bağlantıları PHP ile yapılmış.
 -	MySQL
 Veritabanı yönetim sistemi olarak kullanılmıştır. Randevu, kullanıcı, müşteri gibi veriler MySQL veritabanında saklanıyor.
 -	HTML
