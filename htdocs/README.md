@@ -1,16 +1,16 @@
 # Kuaför Randevu Sistemi
 
 Bu proje, 
--	##PHP## Sunucu tarafı programlama dili olarak kullanılmıştır. Tüm dinamik işlemler, oturum yönetimi, form işlemleri ve veritabanı bağlantıları PHP ile yapılmış.
--	##MySQL##
+-	##PHP Sunucu tarafı programlama dili olarak kullanılmıştır. Tüm dinamik işlemler, oturum yönetimi, form işlemleri ve veritabanı bağlantıları PHP ile yapılmış.
+-	##MySQL
 Veritabanı yönetim sistemi olarak kullanılmıştır. Randevu, kullanıcı, müşteri gibi veriler MySQL veritabanında saklanıyor.
--	##HTML##
+-	##HTML
 Web sayfalarının iskeletini oluşturmak için kullanılmıştır.
--	##CSS##
+-	##CSS
 Sayfa tasarımı ve stil vermek için kullanılmıştır. (ör: styles/styles.css, <style> blokları)
--	##JavaScript##
+-	##JavaScript
 Sayfa üzerinde dinamik işlemler ve etkileşimler için kullanılmıştır. (ör: sidebar açma/kapama işlemleri)
--	##Bootstrap## (veya Bootstrap ikonları)
+-	##Bootstrap (veya Bootstrap ikonları)
 Arayüzde ikonlar ve bazı stil bileşenleri için kullanılmış olabilir (ör: bi bi-clock-history gibi class’lar). kullanılarak geliştirilmiş bir kuaför randevu sistemi örneğidir. Sistem, kullanıcıların giriş yapıp/kaydolup randevu almasına, randevuları görüntülemesine ve yönetmesine olanak sağlar.
 
 ## Özellikler
