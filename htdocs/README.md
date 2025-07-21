@@ -1,4 +1,4 @@
-# Kuaför Randevu Sistemi
+# Randevu Sistemi
 
 Bu proje, 
 -	 PHP
@@ -17,7 +17,7 @@ Arayüzde ikonlar ve bazı stil bileşenleri için kullanılmış olabilir (ör:
 
 ## Özellikler
 
-## Kullanıcılar için
+### Kullanıcılar için
 -	Randevu geçmişi görüntüleme:
 Kullanıcılar, geçmişteki randevularını ve durumlarını görebilir.
 -	Randevu hatırlatma bildirimi:
@@ -28,7 +28,7 @@ Kullanıcılar ad, telefon, şifre gibi bilgilerini güncelleyebilir.
 Şifresini unutan kullanıcılar için e-posta ile şifre sıfırlama özelliği.
 -	Randevu tekrar etme:
 Kullanıcılar daha önceki bir randevuyu tek tıkla tekrar oluşturabilir.
-## Personel/Yönetici için
+### Personel/Yönetici için
 -	Randevu onay/reddetme:
 Personel, gelen randevu taleplerini onaylayabilir veya reddedebilir.
 -	Çalışma saatleri ve tatil günleri yönetimi:
@@ -37,7 +37,7 @@ Personel, sistemden çalışma saatlerini ve tatil günlerini ayarlayabilir.
 Personel, tüm müşterilerin geçmiş randevularını görebilir.
 -	Raporlama:
 Günlük/haftalık/aylık randevu sayısı, iptal edilen randevular gibi istatistikler.
-## Genel için
+### Genel için
 -	Çoklu dil desteği:
 Kullanıcı arayüzü farklı dillerde kullanılabilir.
 -	Mobil uyumlu arayüz:
