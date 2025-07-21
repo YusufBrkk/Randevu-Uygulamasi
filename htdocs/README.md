@@ -1,6 +1,6 @@
-# Kuaför Randevu Sistemi
+# Randevu Sistemi
 
-Bu proje, kuaför salonları için geliştirilmiş, kullanıcıların online randevu almasını ve yönetmesini sağlayan bir web uygulamasıdır.
+Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıların online randevu almasını ve yönetmesini sağlayan bir web uygulamasıdır.
 
 ## Kullanılan Teknolojiler
 
@@ -60,5 +60,10 @@ Bu proje, kuaför salonları için geliştirilmiş, kullanıcıların online ran
 
 Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin. İletişim bilgilerini aşağıda bulabilirsiniz:
 
--   LinkedIn: [http://www.linkedin.com/in/yusuf-burkuk-390b4027a]
--   E-posta: [yusufbrkk12@gmail.com]
+- [LinkedIn](http://www.linkedin.com/in/yusuf-burkuk-390b4027a)
+- [E-posta](mailto:yusufbrkk12@gmail.com)
+
+## Katkı
+
+Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya issue açın.
+
