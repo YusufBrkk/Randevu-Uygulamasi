@@ -18,33 +18,33 @@ Arayüzde ikonlar ve bazı stil bileşenleri için kullanılmış olabilir (ör:
 ## Özellikler
 
 ## Kullanıcılar için
-•	Randevu geçmişi görüntüleme:
+-	Randevu geçmişi görüntüleme:
 Kullanıcılar, geçmişteki randevularını ve durumlarını görebilir.
-•	Randevu hatırlatma bildirimi:
+-	Randevu hatırlatma bildirimi:
 Randevu zamanı yaklaşınca e-posta veya SMS ile otomatik hatırlatma gönderilebilir.
-•	Profil düzenleme:
+-	Profil düzenleme:
 Kullanıcılar ad, telefon, şifre gibi bilgilerini güncelleyebilir.
-•	Şifre sıfırlama:
+-	Şifre sıfırlama:
 Şifresini unutan kullanıcılar için e-posta ile şifre sıfırlama özelliği.
-•	Randevu tekrar etme:
+-	Randevu tekrar etme:
 Kullanıcılar daha önceki bir randevuyu tek tıkla tekrar oluşturabilir.
 ## Personel/Yönetici için
-•	Randevu onay/reddetme:
+-	Randevu onay/reddetme:
 Personel, gelen randevu taleplerini onaylayabilir veya reddedebilir.
-•	Çalışma saatleri ve tatil günleri yönetimi:
+-	Çalışma saatleri ve tatil günleri yönetimi:
 Personel, sistemden çalışma saatlerini ve tatil günlerini ayarlayabilir.
-•	Müşteri listesi ve geçmişi:
+-	Müşteri listesi ve geçmişi:
 Personel, tüm müşterilerin geçmiş randevularını görebilir.
-•	Raporlama:
+-	Raporlama:
 Günlük/haftalık/aylık randevu sayısı, iptal edilen randevular gibi istatistikler.
 ## Genel
-•	Çoklu dil desteği:
+-	Çoklu dil desteği:
 Kullanıcı arayüzü farklı dillerde kullanılabilir.
-•	Mobil uyumlu arayüz:
+-	Mobil uyumlu arayüz:
 Responsive tasarım ile mobil cihazlarda da rahat kullanım.
-•	Yorum ve değerlendirme:
+-	Yorum ve değerlendirme:
 Kullanıcılar aldıkları hizmeti puanlayıp yorum bırakabilir.
-•	Bildirim paneli:
+-	Bildirim paneli:
 Kullanıcı ve personel için sistem içi bildirimler (ör: yeni randevu talebi, iptal edilen randevu).
 
 ## Gereksinimler
