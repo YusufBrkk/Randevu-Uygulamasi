@@ -17,10 +17,10 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 ![Giriş Sayfası](Screenshots/sign-in.png)![Giriş Sayfası](Screenshots/sign-in1.png)![Giriş Sayfası](Screenshots/sign-in2.png)
 
 ### Kayıt Ol Sayfası
-![Kayıt Ol Sayfası](screenshots/sign-up.png)
+![Kayıt Ol Sayfası](Screenshots/sign-up.png)
 
 ### Admin Giriş Paneli
-![Admin Paneli](screenshots/admin log-in.png)![Admin Paneli](screenshots/admin log-in1.png)![Admin Paneli](screenshots/admin log-in2.png)
+![Admin Giriş Paneli](Screenshots/admin log-in.png)![Admin Giriş Paneli](Screenshots/admin log-in1.png)![Admin Giriş Paneli](Screenshots/admin log-in2.png)
 
 ## Özellikler
 
