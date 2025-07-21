@@ -1,58 +1,47 @@
-# Randevu Sistemi
+# Kuaför Randevu Sistemi
 
-Bu proje, 
--	 PHP
-  Sunucu tarafı programlama dili olarak kullanılmıştır. Tüm dinamik işlemler, oturum yönetimi, form işlemleri ve veritabanı bağlantıları PHP ile yapılmış.
--	 MySQL
-Veritabanı yönetim sistemi olarak kullanılmıştır. Randevu, kullanıcı, müşteri gibi veriler MySQL veritabanında saklanıyor.
--	 HTML
-Web sayfalarının iskeletini oluşturmak için kullanılmıştır.
--	 CSS
-Sayfa tasarımı ve stil vermek için kullanılmıştır. (ör: styles/styles.css, <style> blokları)
--	 JavaScript
-Sayfa üzerinde dinamik işlemler ve etkileşimler için kullanılmıştır. (ör: sidebar açma/kapama işlemleri)
--  Bootstrap (veya Bootstrap ikonları)
-Arayüzde ikonlar ve bazı stil bileşenleri için kullanılmış olabilir (ör: bi bi-clock-history gibi class’lar). kullanılarak geliştirilmiş bir kuaför randevu sistemi örneğidir. Sistem, kullanıcıların giriş yapıp/kaydolup randevu almasına, randevuları görüntülemesine ve yönetmesine olanak sağlar.
+Bu proje, kuaför salonları için geliştirilmiş, kullanıcıların online randevu almasını ve yönetmesini sağlayan bir web uygulamasıdır.
+
+## Kullanılan Teknolojiler
+
+- **PHP** – Sunucu tarafı programlama dili
+- **MySQL** – Veritabanı yönetim sistemi
+- **HTML** – Web sayfası iskeleti
+- **CSS** – Sayfa tasarımı ve stil
+- **JavaScript** – Dinamik işlemler ve etkileşimler
+- **Bootstrap Icons** – Arayüz ikonları
 
 ## Özellikler
 
 ### Kullanıcılar için
--	Randevu geçmişi görüntüleme:
-Kullanıcılar, geçmişteki randevularını ve durumlarını görebilir.
--	Randevu hatırlatma bildirimi:
-Randevu zamanı yaklaşınca e-posta veya SMS ile otomatik hatırlatma gönderilebilir.
--	Profil düzenleme:
-Kullanıcılar ad, telefon, şifre gibi bilgilerini güncelleyebilir.
--	Şifre sıfırlama:
-Şifresini unutan kullanıcılar için e-posta ile şifre sıfırlama özelliği.
--	Randevu tekrar etme:
-Kullanıcılar daha önceki bir randevuyu tek tıkla tekrar oluşturabilir.
+- Hesap oluşturma ve giriş yapma
+- Randevu oluşturma, görüntüleme ve iptal etme
+- Randevu geçmişini görüntüleme
+- Profil bilgilerini güncelleme _(planlanıyor)_
+- Şifre sıfırlama _(planlanıyor)_
+- Randevu hatırlatma bildirimi _(planlanıyor)_
+- Randevu tekrar etme _(planlanıyor)_
+
 ### Personel/Yönetici için
--	Randevu onay/reddetme:
-Personel, gelen randevu taleplerini onaylayabilir veya reddedebilir.
--	Çalışma saatleri ve tatil günleri yönetimi:
-Personel, sistemden çalışma saatlerini ve tatil günlerini ayarlayabilir.
--	Müşteri listesi ve geçmişi:
-Personel, tüm müşterilerin geçmiş randevularını görebilir.
--	Raporlama:
-Günlük/haftalık/aylık randevu sayısı, iptal edilen randevular gibi istatistikler.
-### Genel için
--	Çoklu dil desteği:
-Kullanıcı arayüzü farklı dillerde kullanılabilir.
--	Mobil uyumlu arayüz:
-Responsive tasarım ile mobil cihazlarda da rahat kullanım.
--	Yorum ve değerlendirme:
-Kullanıcılar aldıkları hizmeti puanlayıp yorum bırakabilir.
--	Bildirim paneli:
-Kullanıcı ve personel için sistem içi bildirimler (ör: yeni randevu talebi, iptal edilen randevu).
+- Randevu taleplerini onaylama veya reddetme
+- Randevu güncelleme ve iptal etme
+- Çalışma saatleri ve tatil günleri yönetimi
+- Müşteri listesi ve geçmişi
+- Raporlama ve istatistikler _(planlanıyor)_
+
+### Genel
+- Çoklu dil desteği (TR/EN)
+- Mobil uyumlu arayüz (responsive)
+- Yorum ve değerlendirme _(planlanıyor)_
+- Bildirim paneli _(planlanıyor)_
 
 ## Gereksinimler
 
-- XAMPP [önerilen] veya herhangi bir web geliştirme bileşenlerini bir araya getiren benzer bir platform.
+- XAMPP (önerilen) veya benzeri bir web geliştirme platformu
 
 ## Kurulum
 
-1. Bu depoyu XAMPP dosyalarının içindeki ***htdocs*** dizinine giderek klonlayın: <br> `git clone git@github.com:bilalyarmaci/kuafor-randevu-sistemi.git`
+1. Bu depoyu XAMPP dosyalarının içindeki `htdocs` dizinine klonlayın:
 2. XAMPP platformundan *Apache Web Server* ve *MySQL Database*'i çalıştırın.
 3. *sqlDatabase.sql* dosyasındaki MySQL sorgusunu kopyalayın.
 4. Tarayıcınızda `localhost/phpmyadmin` adresine gidin.
