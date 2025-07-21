@@ -28,7 +28,7 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 - Hesap oluşturma ve giriş yapma
 - Randevu oluşturma, görüntüleme ve iptal etme
 - Randevu geçmişini görüntüleme
-- Profil bilgilerini güncelleme _(planlanıyor)_
+- Profil bilgilerini güncelleme 
 - Şifre sıfırlama _(planlanıyor)_
 - Randevu hatırlatma bildirimi _(planlanıyor)_
 - Randevu tekrar etme _(planlanıyor)_
@@ -38,7 +38,7 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 - Randevu güncelleme ve iptal etme
 - Çalışma saatleri ve tatil günleri yönetimi
 - Müşteri listesi ve geçmişi
-- Raporlama ve istatistikler _(planlanıyor)_
+- Raporlama ve istatistikler
 
 ### Genel
 - Çoklu dil desteği (TR/EN)
