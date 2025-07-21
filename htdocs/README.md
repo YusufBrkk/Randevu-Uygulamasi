@@ -14,7 +14,7 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 ## Ekran Görüntüleri
 
 ### Giriş Sayfası
-![Giriş Sayfası](Screenshots/sign-in.png)[Giriş Sayfası](Screenshots/sign-in1.png)[Giriş Sayfası](Screenshots/sign-in2.png)
+![Giriş Sayfası](Screenshots/sign-in.png)![Giriş Sayfası](Screenshots/sign-in1.png)![Giriş Sayfası](Screenshots/sign-in2.png)
 
 ### Kayıt Ol Sayfası
 ![Kayıt Ol Sayfası](screenshots/register.png)
