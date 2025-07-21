@@ -1,6 +1,17 @@
 # Kuaför Randevu Sistemi
 
-Bu proje, **PHP** ve **MySQL** kullanılarak geliştirilmiş bir kuaför randevu sistemi örneğidir. Sistem, kullanıcıların giriş yapıp/kaydolup randevu almasına, randevuları görüntülemesine ve yönetmesine olanak sağlar.
+Bu proje, 
+•	PHP Sunucu tarafı programlama dili olarak kullanılmıştır. Tüm dinamik işlemler, oturum yönetimi, form işlemleri ve veritabanı bağlantıları PHP ile yapılmış.
+•	MySQL
+Veritabanı yönetim sistemi olarak kullanılmıştır. Randevu, kullanıcı, müşteri gibi veriler MySQL veritabanında saklanıyor.
+•	HTML
+Web sayfalarının iskeletini oluşturmak için kullanılmıştır.
+•	CSS
+Sayfa tasarımı ve stil vermek için kullanılmıştır. (ör: styles/styles.css, <style> blokları)
+•	JavaScript
+Sayfa üzerinde dinamik işlemler ve etkileşimler için kullanılmıştır. (ör: sidebar açma/kapama işlemleri)
+•	Bootstrap (veya Bootstrap ikonları)
+Arayüzde ikonlar ve bazı stil bileşenleri için kullanılmış olabilir (ör: bi bi-clock-history gibi class’lar). kullanılarak geliştirilmiş bir kuaför randevu sistemi örneğidir. Sistem, kullanıcıların giriş yapıp/kaydolup randevu almasına, randevuları görüntülemesine ve yönetmesine olanak sağlar.
 
 ## Özellikler
 
@@ -24,7 +35,7 @@ Bu proje, **PHP** ve **MySQL** kullanılarak geliştirilmiş bir kuaför randevu
 ## Kullanım
 
 1. Çalışır halde değilse XAMPP platformundan *Apache Web Server* ve *MySQL Database*'i çalıştırın.
-2. Tarayıcınızda `localhost/kuafor-randevu-sistemi/` adresine gidin.
+2. Tarayıcınızda `localhost/randevu-sistemi/` adresine gidin.
 3. Kayıtlı bir kullanıcı olarak giriş yapın veya yeni bir hesap oluşturun.
 4. Randevu oluşturmak için uygun bir tarih ve saat seçin ve randevu alın.
 5. Kuaför salonu personeli (admin), giriş yaptıktan sonra randevu taleplerini görüntüleyebilir ve güncelleme/iptal etme seçeneklerini kullanabilir.
@@ -34,5 +45,5 @@ Bu proje, **PHP** ve **MySQL** kullanılarak geliştirilmiş bir kuaför randevu
 
 Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin. İletişim bilgilerini aşağıda bulabilirsiniz:
 
--   LinkedIn: [Bilyal Yarmadzha](https://www.linkedin.com/in/bilyal-yarmadzha-1915801a0/)
--   E-posta: [Gmail](mailto:bilal.yarmaci.edu+krsGH@gmail.com)
+-   LinkedIn: [http://www.linkedin.com/in/yusuf-burkuk-390b4027a]
+-   E-posta: [yusufbrkk12@gmail.com]
