@@ -37,7 +37,7 @@ Personel, sistemden çalışma saatlerini ve tatil günlerini ayarlayabilir.
 Personel, tüm müşterilerin geçmiş randevularını görebilir.
 -	Raporlama:
 Günlük/haftalık/aylık randevu sayısı, iptal edilen randevular gibi istatistikler.
-## Genel
+## Genel için
 -	Çoklu dil desteği:
 Kullanıcı arayüzü farklı dillerde kullanılabilir.
 -	Mobil uyumlu arayüz:
