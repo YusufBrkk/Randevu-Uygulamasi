@@ -1,24 +1,51 @@
 # Kuaför Randevu Sistemi
 
 Bu proje, 
--	PHP Sunucu tarafı programlama dili olarak kullanılmıştır. Tüm dinamik işlemler, oturum yönetimi, form işlemleri ve veritabanı bağlantıları PHP ile yapılmış.
--	MySQL
+-	## PHP
+  Sunucu tarafı programlama dili olarak kullanılmıştır. Tüm dinamik işlemler, oturum yönetimi, form işlemleri ve veritabanı bağlantıları PHP ile yapılmış.
+-	## MySQL
 Veritabanı yönetim sistemi olarak kullanılmıştır. Randevu, kullanıcı, müşteri gibi veriler MySQL veritabanında saklanıyor.
--	HTML
+-	## HTML
 Web sayfalarının iskeletini oluşturmak için kullanılmıştır.
--	CSS
+-	## CSS
 Sayfa tasarımı ve stil vermek için kullanılmıştır. (ör: styles/styles.css, <style> blokları)
--	JavaScript
+-	## JavaScript
 Sayfa üzerinde dinamik işlemler ve etkileşimler için kullanılmıştır. (ör: sidebar açma/kapama işlemleri)
-- Bootstrap (veya Bootstrap ikonları)
+- ## Bootstrap
+  (veya Bootstrap ikonları)
 Arayüzde ikonlar ve bazı stil bileşenleri için kullanılmış olabilir (ör: bi bi-clock-history gibi class’lar). kullanılarak geliştirilmiş bir kuaför randevu sistemi örneğidir. Sistem, kullanıcıların giriş yapıp/kaydolup randevu almasına, randevuları görüntülemesine ve yönetmesine olanak sağlar.
 
 ## Özellikler
 
-- Kullanıcılar hesap oluşturabilir veya giriş yapabilir.
-- Kullanıcılar randevu alabilir ve güncel randevularını görüntüleyebilir.
-- Kullanıcılar randevu taleplerini iptal edebilir.
-- Kuaför salonu personeli randevuları güncelleyebilir veya iptal edebilir.
+## Kullanıcılar için
+•	Randevu geçmişi görüntüleme:
+Kullanıcılar, geçmişteki randevularını ve durumlarını görebilir.
+•	Randevu hatırlatma bildirimi:
+Randevu zamanı yaklaşınca e-posta veya SMS ile otomatik hatırlatma gönderilebilir.
+•	Profil düzenleme:
+Kullanıcılar ad, telefon, şifre gibi bilgilerini güncelleyebilir.
+•	Şifre sıfırlama:
+Şifresini unutan kullanıcılar için e-posta ile şifre sıfırlama özelliği.
+•	Randevu tekrar etme:
+Kullanıcılar daha önceki bir randevuyu tek tıkla tekrar oluşturabilir.
+## Personel/Yönetici için
+•	Randevu onay/reddetme:
+Personel, gelen randevu taleplerini onaylayabilir veya reddedebilir.
+•	Çalışma saatleri ve tatil günleri yönetimi:
+Personel, sistemden çalışma saatlerini ve tatil günlerini ayarlayabilir.
+•	Müşteri listesi ve geçmişi:
+Personel, tüm müşterilerin geçmiş randevularını görebilir.
+•	Raporlama:
+Günlük/haftalık/aylık randevu sayısı, iptal edilen randevular gibi istatistikler.
+## Genel
+•	Çoklu dil desteği:
+Kullanıcı arayüzü farklı dillerde kullanılabilir.
+•	Mobil uyumlu arayüz:
+Responsive tasarım ile mobil cihazlarda da rahat kullanım.
+•	Yorum ve değerlendirme:
+Kullanıcılar aldıkları hizmeti puanlayıp yorum bırakabilir.
+•	Bildirim paneli:
+Kullanıcı ve personel için sistem içi bildirimler (ör: yeni randevu talebi, iptal edilen randevu).
 
 ## Gereksinimler
 
