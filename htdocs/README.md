@@ -109,3 +109,6 @@ Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen ilet
 
 Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya issue açın.
 
+## Bilgilendirme
+
+Bazı gizli ve paylaşılması riskli olan kodlarımı herkese açık paylaşamıyorum bu nedenle Kodları çalıştırdığınızda eksik veya sorunlu çalışabilir yardım almak için iletişime geçebilirsiniz.
