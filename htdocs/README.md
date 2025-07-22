@@ -22,6 +22,37 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 ### Admin Giriş Paneli
 ![Admin Giriş Paneli](Screenshots/admin-log-in.png)![Admin Giriş Paneli](Screenshots/admin-log-in1.png)![Admin Giriş Paneli](Screenshots/admin-log-in2.png)
 
+### Müşteri Ana Sayfası
+![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS1.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS2.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS3.png)![Müşteri Ana Sayfası](Screenshots/APPOINTMENTS4.png)
+
+### Randevularım Sayfası
+![Kayıt Ol Sayfası](Screenshots/sign-up.png)
+
+### Randevu Oluştur Sayfası
+![Admin Giriş Paneli](Screenshots/admin-log-in.png)![Admin Giriş Paneli](Screenshots/admin-log-in1.png)![Admin Giriş Paneli](Screenshots/admin-log-in2.png)
+
+### Çalışma Saatleri ve Tatil Sayfası
+![Giriş Sayfası](Screenshots/sign-in.png)![Giriş Sayfası](Screenshots/sign-in1.png)![Giriş Sayfası](Screenshots/sign-in2.png)
+
+### Geçmiş Randevularım Sayfası
+![Kayıt Ol Sayfası](Screenshots/sign-up.png)
+
+### Profilimi Güncelle Sayfası
+![Profilimi Güncelle Sayfası](Screenshots/admin-log-in.png)![Profilimi Güncelle Sayfası](Screenshots/admin-log-in1.png)![Profilimi Güncelle Sayfası](Screenshots/admin-log-in2.png)
+
+### Admin Ana Sayfası
+![Admin Ana Sayfası](Screenshots/sign-in.png)![Admin Ana Sayfası](Screenshots/sign-in1.png)![Admin Ana Sayfası](Screenshots/sign-in2.png)
+
+### Admin Randevuları Yönet Sayfası
+![Admin Randevuları Yönet Sayfası](Screenshots/sign-up.png)
+
+### Admin Müşterileri Görüntüle Sayfası
+![Admin Müşterileri Görüntüle Sayfası](Screenshots/admin-log-in.png)![Admin Müşterileri Görüntüle Sayfası](Screenshots/admin-log-in1.png)![Admin Müşterileri Görüntüle Sayfası](Screenshots/admin-log-in2.png)
+
+### Admin Çalışma Saatleri ve Tatil Yönet Sayfası
+![Admin Çalışma Saatleri ve Tatil Yönet Sayfası](Screenshots/sign-up.png)
+
+
 ## Özellikler
 
 ### Kullanıcılar için
