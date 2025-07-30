@@ -13,6 +13,91 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 
 ## Ekran Görüntüleri
 
+## 📸 Ekran Görüntüleri
+
+<h3>Giriş Sayfası</h3>
+<p>
+  <img src="Screenshots/sign-in.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/sign-in1.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/sign-in2.png" width="200" />
+</p>
+
+<h3>Kayıt Ol Sayfası</h3>
+<p>
+  <img src="Screenshots/sign-up.png" width="200" />
+</p>
+
+<h3>Admin Giriş Paneli</h3>
+<p>
+  <img src="Screenshots/admin-log-in.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/admin-log-in1.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/admin-log-in2.png" width="200" />
+</p>
+
+<h3>Müşteri Ana Sayfası</h3>
+<p>
+  <img src="Screenshots/APPOINTMENTS.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/APPOINTMENTS1.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/APPOINTMENTS2.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/APPOINTMENTS3.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/APPOINTMENTS4.png" width="200" />
+</p>
+
+<h3>Randevularım Sayfası</h3>
+<p>
+  <img src="Screenshots/MYAPPTS.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/MYAPPTS1.png" width="200" />
+</p>
+
+<h3>Randevu Oluştur Sayfası</h3>
+<p>
+  <img src="Screenshots/MAKEAPPT.png" width="200" />
+</p>
+
+<h3>Çalışma Saatleri ve Tatil Sayfası</h3>
+<p>
+  <img src="Screenshots/WORKTIMES.png" width="200" />
+</p>
+
+<h3>Geçmiş Randevularım Sayfası</h3>
+<p>
+  <img src="Screenshots/PASTAPPTS.png" width="200" />
+</p>
+
+<h3>Profilimi Güncelle Sayfası</h3>
+<p>
+  <img src="Screenshots/Profile-update.png" width="200" />
+</p>
+
+<h3>Admin Ana Sayfası</h3>
+<p>
+  <img src="Screenshots/admin.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/admin1.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/admin2.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/admin3.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/admin4.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/admin5.png" width="200" />
+</p>
+
+<h3>Admin Randevuları Yönet Sayfası</h3>
+<p>
+  <img src="Screenshots/admin-appts.png" width="200" style="margin-right: 10px;" />
+  <img src="Screenshots/admin-appts1.png" width="200" />
+</p>
+
+<h3>Admin Müşterileri Görüntüle Sayfası</h3>
+<p>
+  <img src="Screenshots/admin-users.png" width="200" />
+</p>
+
+<h3>Admin Çalışma Saatleri ve Tatil Yönet Sayfası</h3>
+<p>
+  <img src="Screenshots/admin-worktimes.png" width="200" />
+</p>
+
+
+
+
 ### Giriş Sayfası
 ![Giriş Sayfası](Screenshots/sign-in.png)![Giriş Sayfası](Screenshots/sign-in1.png)![Giriş Sayfası](Screenshots/sign-in2.png)
 
