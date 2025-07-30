@@ -17,21 +17,21 @@ Bu proje, Randevuyla çalışan işletmeler için geliştirilmiş, kullanıcıla
 
 <h3>Giriş Sayfası</h3>
 <p>
-  <img src="Screenshots/sign-in.png" width="200" style="margin-right: 10px;" />
-  <img src="Screenshots/sign-in1.png" width="200" style="margin-right: 10px;" />
-  <img src="Screenshots/sign-in2.png" width="200" />
+  <img src="Screenshots/sign-in.png" width="400" style="margin-right: 10px;" />
+  <img src="Screenshots/sign-in1.png" width="400" style="margin-right: 10px;" />
+  <img src="Screenshots/sign-in2.png" width="400" />
 </p>
 
 <h3>Kayıt Ol Sayfası</h3>
 <p>
-  <img src="Screenshots/sign-up.png" width="200" />
+  <img src="Screenshots/sign-up.png" width="400" />
 </p>
 
 <h3>Admin Giriş Paneli</h3>
 <p>
-  <img src="Screenshots/admin-log-in.png" width="200" style="margin-right: 10px;" />
-  <img src="Screenshots/admin-log-in1.png" width="200" style="margin-right: 10px;" />
-  <img src="Screenshots/admin-log-in2.png" width="200" />
+  <img src="Screenshots/admin-log-in.png" width="400" style="margin-right: 10px;" />
+  <img src="Screenshots/admin-log-in1.png" width="400" style="margin-right: 10px;" />
+  <img src="Screenshots/admin-log-in2.png" width="400" />
 </p>
 
 <h3>Müşteri Ana Sayfası</h3>
